@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Habitu - Terms of Service</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin: 24px; color:#0D1B2A; background:#ffffff; line-height:1.6; }
+    .container { max-width:900px; margin:40px auto; padding:24px; border-radius:12px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); background: #fff; }
+    h1 { color:#007BFF; margin-bottom:8px; }
+    h2 { color:#007BFF; margin-top:20px; }
+    p, li { color:#24314a; }
+    ul { margin-left:20px; }
+    footer { margin-top:28px; color:#6b7280; font-size:13px; }
+    a { color:#007BFF; text-decoration:none; }
+    .muted { color:#6b7280; font-size:14px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Terms of Service — Habitu</h1>
+    <p class="muted"><strong>Last Updated:</strong> 2025</p>
+
+    <p>Welcome to <strong>Habitu</strong> (“the App”). By downloading, installing, or using Habitu, you agree to the following Terms of Service. If you do not agree, you must stop using the App immediately.</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By using Habitu, you confirm that:</p>
+    <ul>
+      <li>You are <strong>13 years of age or older</strong>.</li>
+      <li>You have read, understood, and agreed to these Terms.</li>
+      <li>You will comply with all applicable laws and regulations.</li>
+    </ul>
+
+    <h2>2. Description of Service</h2>
+    <p>Habitu is a habit-tracking and social motivation application that provides:</p>
+    <ul>
+      <li>Habit creation and daily/weekly tracking;</li>
+      <li>Progress visualization and streak systems;</li>
+      <li>Social features such as leaderboards and shared achievements;</li>
+      <li>A reward system to encourage habit consistency;</li>
+      <li>Cloud synchronization through Firebase services.</li>
+    </ul>
+    <p>We may modify, enhance, or remove features at any time.</p>
+
+    <h2>3. User Accounts & Responsibilities</h2>
+    <p>To access certain features, you may be required to sign in using:</p>
+    <ul>
+      <li>Google account;</li>
+      <li>Apple ID (if available);</li>
+      <li>Email and password authentication.</li>
+    </ul>
+    <p>You agree to provide accurate information, maintain the security of your credentials, and accept responsibility for all activity under your account. We reserve the right to suspend or terminate accounts that violate these Terms.</p>
+
+    <h2>4. Acceptable Use Policy</h2>
+    <p>You agree NOT to engage in any of the following:</p>
+    <ul>
+      <li>Uploading harmful, offensive, or illegal content;</li>
+      <li>Harassing, threatening, or bullying other users;</li>
+      <li>Cheating or manipulating streaks, badges, or leaderboards;</li>
+      <li>Attempting to hack, modify, or reverse-engineer the App;</li>
+      <li>Using scripts, bots, or automated systems;</li>
+      <li>Uploading viruses or malicious code.</li>
+    </ul>
+    <p>Breaking these rules may result in account suspension or permanent ban.</p>
+
+    <h2>5. Social Features</h2>
+    <p>Habitu includes optional social features such as friend leaderboards, activity visibility (if enabled), and sharing milestones. You control what information you share. We do not publish your private habits unless you actively choose to share them.</p>
+
+    <h2>6. Privacy & Data Collection</h2>
+    <p>Your use of the App is governed by our Privacy Policy, which explains what personal data we collect, how we use it, how it is stored and protected, and your rights. By using Habitu, you consent to the data practices described in the Privacy Policy.</p>
+    <p>Privacy Policy URL: <a href="https://YOUR_GITHUB_USERNAME.github.io/habitu-privacy/" target="_blank">https://YOUR_GITHUB_USERNAME.github.io/habitu-privacy/</a></p>
+
+    <h2>7. Advertisements</h2>
+    <p>Habitu uses <strong>Google AdMob</strong> to display advertisements. By using the App, you understand and agree that ads may appear during the use of the App and that some ads may be personalized based on your device settings. You can manage ad personalization via your Google account.</p>
+
+    <h2>8. In-App Purchases (If Applicable)</h2>
+    <p>We may offer premium features or subscriptions. All purchases made through the Google Play Store or Apple App Store are subject to their billing and refund policies.</p>
+
+    <h2>9. Intellectual Property</h2>
+    <p>All materials in Habitu—including the logo, design, layout, graphics, UI components, names, and features—are owned by the developers and protected by copyright and trademark law. You may not copy, modify, distribute, reproduce, or use the branding without permission.</p>
+
+    <h2>10. Limitation of Liability</h2>
+    <p>To the fullest extent permitted by law, the developers of Habitu are <strong>not liable</strong> for:</p>
+    <ul>
+      <li>Loss of habits, streaks, or progress;</li>
+      <li>Loss of data;</li>
+      <li>Device damage;</li>
+      <li>Misuse by third parties;</li>
+      <li>Unauthorized access to your account;</li>
+      <li>Interruption, errors, or downtime.</li>
+    </ul>
+    <p>The App is provided <strong>“as is”</strong>, without warranties of any kind.</p>
+
+    <h2>11. Modifications to the Terms</h2>
+    <p>We may update or modify these Terms at any time. If major changes occur, we will attempt to notify users. Continued use of the App following changes constitutes acceptance of the updated Terms.</p>
+
+    <h2>12. Termination</h2>
+    <p>We reserve the right to suspend or terminate your access if you violate these Terms, misuse the App, engage in harmful behavior, or breach security protocols. You may delete your account at any time by contacting our support.</p>
+
+    <h2>13. Governing Law</h2>
+    <p>These Terms are governed by the applicable laws of your country or region, without regard to conflict-of-law principles.</p>
+
+    <h2>14. Contact Information</h2>
+    <p>If you have questions, concerns, or requests regarding these Terms, contact us at:</p>
+    <p><strong>contact@yourdomain.com</strong></p>
+
+    <footer>
+      <p>© 2025 Habitu. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
